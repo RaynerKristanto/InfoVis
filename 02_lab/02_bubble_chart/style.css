@@ -1,0 +1,38 @@
+
+
+text.label {
+    text-anchor: middle;
+    font-size: 14px;
+    fill: #555;
+    font-family: sans-serif;
+}
+
+body {
+    font-family: "Open Sans";
+}
+
+#main {
+    margin: 10px 20px;
+}
+
+.Winner {
+    fill: #084594;
+}
+.Runner-up {
+  fill: #2171b5;
+}
+.Third {
+  fill: #4292c6;
+}
+.Fourth {
+  fill: #6baed6;
+}
+.Quarter-finals {
+  fill: #9ecae1;
+}
+.First {
+  fill: #c6dbef;
+}
+.Second {
+  fill: #eff3ff;
+}
